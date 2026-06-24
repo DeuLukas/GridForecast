@@ -48,6 +48,6 @@ The tuned models outperform the official prediction in squared metrics like RMSE
 This one-week snapshot highlights above summary regarding outlier and prediction consistency of the official prediction, the model prediction and ground truth. 
 <img width="1589" height="490" alt="output_deepdive" src="https://github.com/user-attachments/assets/a8196bc5-ff12-4a12-9587-c20338c66b4d" />
 
-### 5. SOURCES
+## 🌐 Data Sources & Attribution
 Weather data from: 'agrimeteo.lu' : https://www.agrimeteo.lu/Agrarmeteorologie/Wetterdaten/Download-Grafik (CC0 1.0) <br>
 CREOS grid data from 'Bundesnetzagentur | SMARD.de' : https://www.smard.de/home/downloadcenter/download-marktdaten/ (CC BY 4.0)
